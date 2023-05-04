@@ -1,0 +1,36 @@
+header {
+  top: 0;
+  margin: 68 0 0 0;
+  
+}
+@media (max-width: 1196) {
+ }
+ 
+ body {
+   display: block;
+   background-image: url("https://site.surveysparrow.com/wp-content/uploads/2020/09/Pre-Sales-survey-questionnaire-to-improve-sales-768x388.jpg");
+   text-align: center;
+   color: white;
+   font-size: larger;
+   font-family: "Arial";
+ }
+ 
+#navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: yellow;
+  color: white;
+  padding: 1em;
+  opacity: 1;
+}
+h1 {
+margin: 50 0 0 0;
+}
+a:hover {
+  color: red;
+}
+a {
+  color: white;
+}
